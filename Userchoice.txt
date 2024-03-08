@@ -1,2 +1,3 @@
 collect information from users
 process the data
+checking 
