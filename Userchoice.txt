@@ -1,3 +1,5 @@
 collect information from users
 process the data
 checking 
+
+create a avatar for user
